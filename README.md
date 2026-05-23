@@ -45,9 +45,6 @@ flutter pub get
 flutter run
 ```
 
-## 📸 Screenshots
-
-Add screenshots here later.
 
 ## 🎯 Learning Goals
 
